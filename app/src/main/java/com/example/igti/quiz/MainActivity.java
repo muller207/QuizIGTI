@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     protected void checkAnswer(boolean answer){
-        //"Errou!"
         if(answer) {
             Toast.makeText(getBaseContext(), "Acertou!", Toast.LENGTH_SHORT).show();
         }else{
