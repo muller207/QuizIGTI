@@ -1,0 +1,12 @@
+[
+{
+id: 1,
+content: "O sol é amarelo",
+answer: true
+},
+{
+id: 2,
+content: "O sol é azul",
+answer: false
+}
+]
