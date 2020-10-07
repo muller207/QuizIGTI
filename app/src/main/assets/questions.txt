@@ -1,12 +1,8 @@
-[
-{
-id: 1,
-content: "O sol é amarelo",
-answer: true
-},
-{
-id: 2,
-content: "O sol é azul",
-answer: false
-}
-]
+[{id:1, content:"A linguagem oficial para desenvolvimento Android Nativo pela Google é a Kotlin", answer:true},
+{id:2, content:"O processo de publicação do aplicativo na Google Play é gratuito", answer:false},
+{id:3, content:"O Brasil possui uma população de quase 210 milhões", answer:true},
+{id:4, content:"Flutter é uma dos frameworks de desenvolvimento mobile", answer:true},
+{id:5, content:"A linguagem de programação do Flutter é o Dart", answer:true},
+{id:6, content:"O Flutter possui interoperabilidade e pode ter projetos em Java e Dart", answer:false},
+{id:7, content:"React-Native é uma plataforma para desenvolvimento de aplicativos móveis", answer:true},
+{id:8, content:"O Kotlin possui interoperabilidade oque possibilita implementar projetos em Java e Kotlin", answer:true}]
